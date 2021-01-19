@@ -1,9 +1,13 @@
-# ML-UnsupervisedModels
+# Unsupervised Machine Learning Models
+
 Unsupervised ML models for Game Balancing, Game Design, Character Combat Analysis
 
-# What's in this repository
+## What's in this repository
 
-Machine Learning Models
+1. Decision Tree & Random Forest models with Employee Attrition Data
+2. Game Deisgn Project: Pokemon CHallenge, Predicting face-off 'winners' based on character attributes
+
+## Game Design Project
 
 1. Logistic Regression
 - fitting the model 
