@@ -26,7 +26,7 @@ Unsupervised ML models for Game Balancing, Game Design, Character Combat Analysi
 - accuracy
 - model evaluation
 
-# Bias - Varuance Tradeoff
+# Bias - Variance Tradeoff
 - approximation/estimation trade off, heart of all of Machine Learning. 
 - Answers the question, how do we choose a good model? 
 - Bias/approximation has to do with how well your model does on average
