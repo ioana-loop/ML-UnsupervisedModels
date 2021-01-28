@@ -1,6 +1,6 @@
 # Unsupervised Machine Learning Models
 
-Unsupervised ML models for Game Balancing, Game Design, Character Combat Analysis
+Unsupervised ML models for Game Balancing, Game Design, Character Combat Analysis, Employee Attrition
 
 ## What's in this repository
 
