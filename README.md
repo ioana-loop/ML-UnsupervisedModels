@@ -1,6 +1,6 @@
 # Unsupervised Machine Learning Models
 
-Unsupervised ML models for Game Balancing, Game Design, Character Combat Analysis, Employee Attrition
+In this repository, you will Jupyter notebooks that walk through several nsupervised ML models for Game Balancing, Game Design, Character Combat Analysis, Employee Attrition applications
 
 ## What's in this repository
 
